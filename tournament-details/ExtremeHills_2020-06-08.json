@@ -1,0 +1,55 @@
+{
+    "name": "Extreme Hills",
+    "holes": [{
+            "hole": 1,
+            "course": "Eagle Peak",
+            "courseHole": 1,
+            "coursePar": 4
+        },
+        {
+            "hole": 2,
+            "course": "Eagle Peak",
+            "courseHole": 4,
+            "coursePar": 3
+        },
+        {
+            "hole": 3,
+            "course": "Grunberg Slopes",
+            "courseHole": 2,
+            "coursePar": 5
+        },
+        {
+            "hole": 4,
+            "course": "Grunberg Slopes",
+            "courseHole": 3,
+            "coursePar": 3
+        },
+        {
+            "hole": 5,
+            "course": "Eagle Peak",
+            "courseHole": 5,
+            "coursePar": 4
+        },
+        {
+            "hole": 6,
+            "course": "Eagle Peak",
+            "courseHole": 9,
+            "coursePar": 5
+        }, {
+            "hole": 7,
+            "course": "Grunberg Slopes",
+            "courseHole": 5,
+            "coursePar": 3
+        }, {
+            "hole": 8,
+            "course": "Grunberg Slopes",
+            "courseHole": 1,
+            "coursePar": 4
+        }, {
+            "hole": 9,
+            "course": "Grunberg Slopes",
+            "courseHole": 9,
+            "coursePar": 5
+        }
+    ]
+}

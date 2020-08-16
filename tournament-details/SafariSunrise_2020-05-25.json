@@ -1,0 +1,55 @@
+{
+    "name": "Safari Sunrise",
+    "holes": [{
+            "hole": 1,
+            "course": "Acacia Reserve",
+            "courseHole": 1,
+            "coursePar": 4
+        },
+        {
+            "hole": 2,
+            "course": "Acacia Reserve",
+            "courseHole": 2,
+            "coursePar": 5
+        },
+        {
+            "hole": 3,
+            "course": "Acacia Reserve",
+            "courseHole": 3,
+            "coursePar": 3
+        },
+        {
+            "hole": 4,
+            "course": "Acacia Reserve",
+            "courseHole": 4,
+            "coursePar": 4
+        },
+        {
+            "hole": 5,
+            "course": "Acacia Reserve",
+            "courseHole": 5,
+            "coursePar": 3
+        },
+        {
+            "hole": 6,
+            "course": "Acacia Reserve",
+            "courseHole": 6,
+            "coursePar": 5
+        }, {
+            "hole": 7,
+            "course": "Acacia Reserve",
+            "courseHole": 7,
+            "coursePar": 3
+        }, {
+            "hole": 8,
+            "course": "Acacia Reserve",
+            "courseHole": 8,
+            "coursePar": 4
+        }, {
+            "hole": 9,
+            "course": "Acacia Reserve",
+            "courseHole": 9,
+            "coursePar": 5
+        }
+    ]
+}

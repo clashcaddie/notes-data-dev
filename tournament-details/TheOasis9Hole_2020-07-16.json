@@ -1,0 +1,55 @@
+{
+    "name": "The Oasis 9 Hole",
+    "holes": [{
+            "hole": 1,
+            "course": "The Oasis",
+            "courseHole": 1,
+            "coursePar": 5
+        },
+        {
+            "hole": 2,
+            "course": "The Oasis",
+            "courseHole": 2,
+            "coursePar": 4
+        },
+        {
+            "hole": 3,
+            "course": "The Oasis",
+            "courseHole": 3,
+            "coursePar": 3
+        },
+        {
+            "hole": 4,
+            "course": "The Oasis",
+            "courseHole": 4,
+            "coursePar": 4
+        },
+        {
+            "hole": 5,
+            "course": "The Oasis",
+            "courseHole": 5,
+            "coursePar": 3
+        },
+        {
+            "hole": 6,
+            "course": "The Oasis",
+            "courseHole": 6,
+            "coursePar": 5
+        }, {
+            "hole": 7,
+            "course": "The Oasis",
+            "courseHole": 7,
+            "coursePar": 3
+        }, {
+            "hole": 8,
+            "course": "The Oasis",
+            "courseHole": 8,
+            "coursePar": 4
+        }, {
+            "hole": 9,
+            "course": "The Oasis",
+            "courseHole": 9,
+            "coursePar": 5
+        }
+    ]
+}

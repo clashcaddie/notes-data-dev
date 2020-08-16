@@ -1,0 +1,55 @@
+{
+    "name": "Vineyard Acres 9 Hole",
+    "holes": [{
+            "hole": 1,
+            "course": "Vineyard Acres",
+            "courseHole": 1,
+            "coursePar": 4
+        },
+        {
+            "hole": 2,
+            "course": "Vineyard Acres",
+            "courseHole": 8,
+            "coursePar": 3
+        },
+        {
+            "hole": 3,
+            "course": "Vineyard Acres",
+            "courseHole": 3,
+            "coursePar": 5
+        },
+        {
+            "hole": 4,
+            "course": "Vineyard Acres",
+            "courseHole": 4,
+            "coursePar": 3
+        },
+        {
+            "hole": 5,
+            "course": "Vineyard Acres",
+            "courseHole": 5,
+            "coursePar": 5
+        },
+        {
+            "hole": 6,
+            "course": "Vineyard Acres",
+            "courseHole": 6,
+            "coursePar": 4
+        }, {
+            "hole": 7,
+            "course": "Vineyard Acres",
+            "courseHole": 2,
+            "coursePar": 3
+        }, {
+            "hole": 8,
+            "course": "Vineyard Acres",
+            "courseHole": 9,
+            "coursePar": 4
+        }, {
+            "hole": 9,
+            "course": "Vineyard Acres",
+            "courseHole": 7,
+            "coursePar": 5
+        }
+    ]
+}
