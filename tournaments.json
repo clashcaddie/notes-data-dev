@@ -2,18 +2,21 @@
     {
 
         "id": 1,
+        "version": 1,
         "name": "Safari Sunrise",
         "startDate": "2020-05-25",
         "uniqueName": "SafariSunrise_2020-05-25"
     },
     {
         "id": 2,
+        "version": 1,
         "name": "Extreme Hills",
         "startDate": "2020-06-08",
         "uniqueName": "ExtremeHills_2020-06-08"
     },
     {
         "id": 3,
+        "version": 1,
         "name": "Vineyard Acres 9 Hole",
         "startDate": "2020-06-18",
         "uniqueName": "VineyardAcres9Hole_2020-06-18"
