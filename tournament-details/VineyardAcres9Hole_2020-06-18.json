@@ -1,52 +1,61 @@
 {
     "name": "Vineyard Acres 9 Hole",
     "holes": [{
-            "hole": 1,
+            "tournamentId": 3,
+            "tournamentHole": 1,
             "course": "Vineyard Acres",
             "courseHole": 1,
             "coursePar": 4
         },
         {
-            "hole": 2,
+            "tournamentId": 3,
+            "tournamentHole": 2,
             "course": "Vineyard Acres",
             "courseHole": 8,
             "coursePar": 3
         },
         {
-            "hole": 3,
+            "tournamentId": 3,
+            "tournamentHole": 3,
             "course": "Vineyard Acres",
             "courseHole": 3,
             "coursePar": 5
         },
         {
-            "hole": 4,
+            "tournamentId": 3,
+            "tournamentHole": 4,
             "course": "Vineyard Acres",
             "courseHole": 4,
             "coursePar": 3
         },
         {
-            "hole": 5,
+            "tournamentId": 3,
+            "tournamentHole": 5,
             "course": "Vineyard Acres",
             "courseHole": 5,
             "coursePar": 5
         },
         {
-            "hole": 6,
+            "tournamentId": 3,
+            "tournamentHole": 6,
             "course": "Vineyard Acres",
             "courseHole": 6,
             "coursePar": 4
         }, {
-            "hole": 7,
+            "tournamentId": 3,
+            "tournamentHole": 7,
             "course": "Vineyard Acres",
             "courseHole": 2,
             "coursePar": 3
         }, {
-            "hole": 8,
+            "tournamentId": 3,
+            "tournamentHole": 8,
             "course": "Vineyard Acres",
             "courseHole": 9,
             "coursePar": 4
         }, {
-            "hole": 9,
+            "tournamentId": 3,
+            "tournamentHole": 9,
             "course": "Vineyard Acres",
             "courseHole": 7,
             "coursePar": 5

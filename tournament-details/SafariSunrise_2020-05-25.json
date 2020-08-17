@@ -1,52 +1,64 @@
 {
     "name": "Safari Sunrise",
     "holes": [{
-            "hole": 1,
+            "tournamentId": 1,
+            "tournamentHole": 1,
             "course": "Acacia Reserve",
             "courseHole": 1,
             "coursePar": 4
         },
         {
-            "hole": 2,
+            "tournamentId": 1,
+            "tournamentHole": 2,
             "course": "Acacia Reserve",
             "courseHole": 2,
             "coursePar": 5
         },
         {
-            "hole": 3,
+            "tournamentId": 1,
+            "tournamentHole": 3,
             "course": "Acacia Reserve",
             "courseHole": 3,
             "coursePar": 3
         },
         {
-            "hole": 4,
+            "tournamentId": 1,
+            "tournamentHole": 4,
             "course": "Acacia Reserve",
             "courseHole": 4,
             "coursePar": 4
         },
         {
-            "hole": 5,
+            "tournamentId": 1,
+            "tournamentHole": 5,
             "course": "Acacia Reserve",
             "courseHole": 5,
             "coursePar": 3
         },
         {
-            "hole": 6,
+            "tournamentId": 1,
+            "tournamentHole": 6,
             "course": "Acacia Reserve",
             "courseHole": 6,
             "coursePar": 5
-        }, {
-            "hole": 7,
+        }, 
+        {
+            "tournamentId": 1,
+            "tournamentHole": 7,
             "course": "Acacia Reserve",
             "courseHole": 7,
             "coursePar": 3
-        }, {
-            "hole": 8,
+        }, 
+        {
+            "tournamentId": 1,
+            "tournamentHole": 8,
             "course": "Acacia Reserve",
             "courseHole": 8,
             "coursePar": 4
-        }, {
-            "hole": 9,
+        }, 
+        {
+            "tournamentId": 1,
+            "tournamentHole": 9,
             "course": "Acacia Reserve",
             "courseHole": 9,
             "coursePar": 5

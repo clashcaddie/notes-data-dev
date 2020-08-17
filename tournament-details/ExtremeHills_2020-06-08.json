@@ -1,52 +1,61 @@
 {
     "name": "Extreme Hills",
     "holes": [{
-            "hole": 1,
+            "tournamentId": 2,
+            "tournamentHole": 1,
             "course": "Eagle Peak",
             "courseHole": 1,
             "coursePar": 4
         },
         {
-            "hole": 2,
+            "tournamentId": 2,
+            "tournamentHole": 2,
             "course": "Eagle Peak",
             "courseHole": 4,
             "coursePar": 3
         },
         {
-            "hole": 3,
+            "tournamentId": 2,
+            "tournamentHole": 3,
             "course": "Grunberg Slopes",
             "courseHole": 2,
             "coursePar": 5
         },
         {
-            "hole": 4,
+            "tournamentId": 2,
+            "tournamentHole": 4,
             "course": "Grunberg Slopes",
             "courseHole": 3,
             "coursePar": 3
         },
         {
-            "hole": 5,
+            "tournamentId": 2,
+            "tournamentHole": 5,
             "course": "Eagle Peak",
             "courseHole": 5,
             "coursePar": 4
         },
         {
-            "hole": 6,
+            "tournamentId": 2,
+            "tournamentHole": 6,
             "course": "Eagle Peak",
             "courseHole": 9,
             "coursePar": 5
         }, {
-            "hole": 7,
+            "tournamentId": 2,
+            "tournamentHole": 7,
             "course": "Grunberg Slopes",
             "courseHole": 5,
             "coursePar": 3
         }, {
-            "hole": 8,
+            "tournamentId": 2,
+            "tournamentHole": 8,
             "course": "Grunberg Slopes",
             "courseHole": 1,
             "coursePar": 4
         }, {
-            "hole": 9,
+            "tournamentId": 2,
+            "tournamentHole": 9,
             "course": "Grunberg Slopes",
             "courseHole": 9,
             "coursePar": 5
